@@ -14,10 +14,10 @@
 ### App Development
 | URL | Description |
 |-----|-------------|
-| [React Native Basics](https://reactnative.dev/docs/tutorial) | An introduction to React Native, a cross-platform framework (very easy to get started if you have React/web dev knowledge) |
-| [Learning Flutter](https://flutter.dev/learn) | A set of tutorials to learn Flutter, another cross-platform app framework |
+| [React Native Basics](https://reactnative.dev/docs/tutorial) | An introduction to React Native, a **cross-platform** framework (very easy to get started if you have React/web dev knowledge) |
+| [Learning Flutter](https://flutter.dev/learn) | A set of tutorials to learn Flutter, another **cross-platform** app framework |
 | [Jetpack Compose Development Tutorial](https://developer.android.com/develop/ui/compose/tutorial) | The tutorial for learning the preferred way of doing **Android** development (can be multi-platform if you also use Compose MultiPlatform) |
-| [Learning SwiftUI](https://developer.apple.com/tutorials/swiftui-concepts) | A set of tutorials for learning to use SwiftUI for iOS development |
+| [Learning SwiftUI](https://developer.apple.com/tutorials/swiftui-concepts) | A set of tutorials for learning to use SwiftUI for **iOS** development |
 
 ## University Resources
 | Title | Description |

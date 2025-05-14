@@ -1,11 +1,25 @@
 # Resources
 ## Learning
 Once you've completed your intro classes, it is generally a good idea to learn a few more languages which aren't taught in them. There are a lot of different ways to learn a language and we've listed a few helpfull tutorials bellow:
+<!-- 
+TO ADD
+App dev
+AI tutorial
+Game Dev tutorial
+IOS app dev
+Windows app dev
+
+-->
+Mobile Dev
 | Source | Description |
 |-----|-------------|
 | [roadmap.sh](https://roadmap.sh/)| Website providing dozen of roadmaps to go down different cs pathways. |
+| [CS50 by Harvard](https://www.edx.org/cs50)| Free language and concepts courses provided by Harvard which integrate project based learning. |
 | [The Odin Project](https://www.theodinproject.com/)| Open source project aimed to help developers learn web-dev. |
 | [freeCodeCamp](https://www.freecodecamp.org/learn/)| Website aimed to help learn Python & JavaScript through lessons and project-based learning. |
+| [AWS Skillbuilder](https://explore.skillbuilder.aws/learn/)| Gain certifications in AWS to strengthen your resume. |
+| [CHECK Github Workflows](https://docs.github.com/en/actions/writing-workflows)| Automate tasks like testing, deployment, and code formatting to streamline development. Great for resumes as it shows DevOps skills, CI/CD experience, and attention to production-level engineering practices.| 
+
 ## Data Structures & Algorithms Practice
 | Source | Description |
 |-----|-------------|

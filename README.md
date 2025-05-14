@@ -15,7 +15,7 @@ Windows app dev
 | Topic | Source | Description |
 | ---- |-----|-------------|
 | Gen. | [CS50 by Harvard](https://www.edx.org/cs50)| Free language and concepts courses provided by Harvard which integrate project based learning. |
-| Gen. | [freeCodeCamp](https://www.freecodecamp.org/learn/)| Website aimed to help learn Python & JavaScript through lessons and project-based learning. |
+| Gen. | [freeCodeCamp](https://www.freecodecamp.org/learn/)| Non-profit providing over 1,500 free CS courses. |
 | Gen. | [roadmap.sh](https://roadmap.sh/)| Website providing dozen of roadmaps to go down different cs pathways. |
 | Web | [The Odin Project](https://www.theodinproject.com/)| Free and open source project aimed to help developers learn web-dev. |
 | ML | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)| Machine learning course provided by Kaggle, a data science competition and learning platform. |
@@ -29,8 +29,21 @@ Windows app dev
 | [LeetCode](https://leetcode.com/) | Has a ton of data structure and algorithm challenges is useful for preparing for interviews and applying skills you have learned from CPSC 2120 and later courses |
 
 ## Project Tutorials
-### Web Development
+### What makes a good project?
+
+
+Compiled list of resources to go to for tutorials and ideas for personal projects.
 | Source | Description |
+|------|-------------|
+| [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) | Repo of project tutorials across core languages and tech stacks. |
+| [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | Repo of project tutorials for building your own technologies (i.e. neural network, 3d renderer, etc).|
+| [Project Ideas](https://github.com/topics/project-ideas) | Repo containing hundreds of project ideas for to do.|
+
+
+### Web Development
+
+### App Development
+<!--| Source | Description |
 |-----|-------------|
 | [MDN Learning Zone](https://developer.mozilla.org/en-US/docs/Learn_web_development) | Learn the basics of HTML, CSS, and JavaScript from different levels |
 | [React Tic-Tac-Toe Tutorial](https://react.dev/learn/tutorial-tic-tac-toe) | A simple way to learn the basics of React, the JavaScript framework |
@@ -42,7 +55,7 @@ Windows app dev
 | [Learning Flutter](https://flutter.dev/learn) | A set of tutorials to learn Flutter, another **cross-platform** app framework |
 | [Jetpack Compose Development Tutorial](https://developer.android.com/develop/ui/compose/tutorial) | The tutorial for learning the preferred way of doing **Android** development (can be multi-platform if you also use Compose MultiPlatform) |
 | [Learning SwiftUI](https://developer.apple.com/tutorials/swiftui-concepts) | A set of tutorials for learning to use SwiftUI for **iOS** development |
-
+-->
 ## Clemson University Resources
 | Title | Description |
 |-------|-------------|

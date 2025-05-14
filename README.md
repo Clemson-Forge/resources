@@ -1,4 +1,11 @@
 # Resources
+## Learning
+Once you've completed your intro classes, it is generally a good idea to learn a few more languages which aren't taught in them. There are a lot of different ways to learn a language and we've listed a few helpfull tutorials bellow:
+| Source | Description |
+|-----|-------------|
+| [roadmap.sh](https://roadmap.sh/)| Website providing dozen of roadmaps to go down different cs pathways. |
+| [The Odin Project](https://www.theodinproject.com/)| Open source project aimed to help developers learn web-dev. |
+| [freeCodeCamp](https://www.freecodecamp.org/learn/)| Website aimed to help learn Python & JavaScript through lessons and project-based learning. |
 ## Data Structures & Algorithms Practice
 | Source | Description |
 |-----|-------------|

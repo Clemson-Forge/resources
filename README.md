@@ -12,14 +12,14 @@ IOS app dev
 Windows app dev
 
 -->
-| Source | Description |
-|-----|-------------|
+| Topic | Source | Description |
+| ---- |-----|-------------|
 | [CS50 by Harvard](https://www.edx.org/cs50)| Free language and concepts courses provided by Harvard which integrate project based learning. |
 | [The Odin Project](https://www.theodinproject.com/)| Free and open source project aimed to help developers learn web-dev. |
 | [freeCodeCamp](https://www.freecodecamp.org/learn/)| Website aimed to help learn Python & JavaScript through lessons and project-based learning. |
+| [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)| Machine learning course provided by Kaggle, a data science competition and learning platform. |
 | [Codédex](https://www.codedex.io/)| Guided coding tutorials for topics including data science, web development, and data structures. |
 | [roadmap.sh](https://roadmap.sh/)| Website providing dozen of roadmaps to go down different cs pathways. |
-
 | [AWS Skillbuilder](https://explore.skillbuilder.aws/learn/)| Gain certifications in AWS to strengthen your resume. |
 | [CHECK Github Workflows](https://docs.github.com/en/actions/writing-workflows)| Automate tasks like testing, deployment, and code formatting to streamline development. Great for resumes as it shows DevOps skills, CI/CD experience, and attention to production-level engineering practices.| 
 

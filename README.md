@@ -1,8 +1,18 @@
 
 # Resources
+Welcome to the Clemson Forge resources repo!
+
 Clemson Forge was created with the idea that everyone needs some form advice or help to excel one's career path. In making this repo we are supporting that belief through providing essential resources to assist CS students through out the career preparation process. We encourage students to use this repo as a starting point for whatever stage they are on and continue that stage through their own self studies. 
 
 We are looking to regularly update this GitHub and ask your help to contribute any resources/sections that have or would have helped you in the past.
+
+## Contents
+[1. Learning](https://github.com/Clemson-Forge/resources/blob/main/README.md#learning)
+[2. Projects](https://github.com/Clemson-Forge/resources/blob/main/README.md#projects)
+[3. Leetcode & Interview Prep](https://github.com/Clemson-Forge/resources/blob/main/README.md#interview-prep)
+[4. Internship & Programs List](https://github.com/Clemson-Forge/resources/blob/main/README.md#internship--programs-list)
+[5. Clemson Resources](https://github.com/Clemson-Forge/resources/blob/main/README.md#clemson-university-resources) 
+
 
 ## Learning
 Learning different programming languages and specializations is an important step in helping develop your CS portfolio. There are many different ways to learn a language. These can be videos found on YouTube or online courses you can enroll for. Below is a compilation of good sources we've found:

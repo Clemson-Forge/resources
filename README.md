@@ -17,9 +17,11 @@ Windows app dev
 -->
 | Topic | Source | Description |
 | ---- |-----|-------------|
-| Gen. | [CS50 by Harvard](https://www.edx.org/cs50)| Free language and concepts courses provided by Harvard which integrate project based learning. |
-| Gen. | [freeCodeCamp](https://www.freecodecamp.org/learn/)| Non-profit providing over 1,500 free CS courses. |
-| Gen. | [roadmap.sh](https://roadmap.sh/)| Website providing dozen of roadmaps to go down different cs pathways. |
+| General | [CS50 by Harvard](https://www.edx.org/cs50)| Free language and concepts courses provided by Harvard which integrate project based learning. |
+| General | [MIT OpenCourseWare](https://ocw.mit.edu/) | Free access to all of MIT course materials including CS intro classes. |
+| General | [Standford Online](https://online.stanford.edu/free-courses) | Access to Standford online courses with specific ones being free. |
+| General | [freeCodeCamp](https://www.freecodecamp.org/learn/)| Non-profit providing over 1,500 free CS courses. |
+| General | [roadmap.sh](https://roadmap.sh/)| Website providing dozen of roadmaps to go down different cs pathways. |
 | Web | [The Odin Project](https://www.theodinproject.com/)| Free and open source project aimed to help developers learn web-dev. |
 | ML | [Kaggle](https://www.kaggle.com/learn/intro-to-machine-learning)| Machine learning course provided by Kaggle, a data science competition and learning platform. |
 | ML/Web/CS | [Codédex](https://www.codedex.io/)| Guided coding tutorials for topics including data science, web development, and data structures. |
@@ -93,6 +95,8 @@ For many freshmen and sophomores, landing an internship is quite difficult and c
 | Title | Description |
 |-------|-------------|
 | CPSC Study Lab | Get help with your 1000-level computer science classes! |
+| [Clubs & Orgs](https://www.clemson.edu/cecas/departments/computing/students/orgs.html) | Stay connected with the CS clubs at Clemson! |
+| [Career Center](https://career.clemson.edu/) | Our natioanlly ranked career center providing assistance throughout the job search process.|
 
 
 ## Sections to come

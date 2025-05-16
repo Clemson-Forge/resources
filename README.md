@@ -1,8 +1,9 @@
 
 # Resources
-Welcome to the Clemson Forge resources repo!
+Welcome to the Clemson Forge Resources Repo!
 
-Clemson Forge was created with the idea that everyone needs some form advice or help to excel one's career path. In making this repo we are supporting that belief through providing essential resources to assist CS students through out the career preparation process. We encourage students to use this repo as a starting point for whatever stage they are on and continue that stage through their own self studies. 
+Clemson Forge was created with the belief that every student benefits from guidance and support throughout their CS journey. This repo was made as a way to centralize essential resources
+In making this repo we are supporting that belief through providing essential resources to assist CS students through out the career preparation process. We encourage students to use this repo as a starting point for whatever stage they are on and continue that stage through their own self studies. 
 
 We are looking to regularly update this GitHub and ask your help to contribute any resources/sections that have or would have helped you in the past.
 

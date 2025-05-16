@@ -2,10 +2,9 @@
 # Resources
 Welcome to the Clemson Forge Resources Repo!
 
-Clemson Forge was created with the belief that every student benefits from guidance and support throughout their CS journey. This repo was made as a way to centralize essential resources
-In making this repo we are supporting that belief through providing essential resources to assist CS students through out the career preparation process. We encourage students to use this repo as a starting point for whatever stage they are on and continue that stage through their own self studies. 
+Clemson Forge was created with the belief that every student benefits from guidance and support throughout their CS journey. This repo was made as a way to support that belif by centralizing essential resources to help you grow—whether you're learning a new language, starting a project, or preparing for your next interview.
 
-We are looking to regularly update this GitHub and ask your help to contribute any resources/sections that have or would have helped you in the past.
+We encourage contributions from students at all levels: if you’ve found a resource that helped you, chances are it can help someone else too.
 
 ## Contents
 #### [1. Learning](https://github.com/Clemson-Forge/resources/blob/main/README.md#learning)
@@ -16,7 +15,7 @@ We are looking to regularly update this GitHub and ask your help to contribute a
 
 
 ## Learning
-Learning different programming languages and specializations is an important step in helping develop your CS portfolio. There are many different ways to learn a language. These can be videos found on YouTube or online courses you can enroll for. Below is a compilation of good sources we've found:
+Learning different programming languages and specializations is an important step in helping develop your CS portfolio. There are many different ways to learn a language. These include YouTube tutorials, interactive platforms, and free online courses from top universities. Below is a compilation of good sources we've found:
 <!-- 
 TO ADD
 App dev
@@ -56,11 +55,11 @@ Compiled list of resources to go to for tutorials and ideas for personal project
 | [Starting a programming project](https://www.youtube.com/watch?v=HdNypiphMRg)| Video by The Coding Sloth on how to start a programming project. |
 | [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) | Repo of project tutorials across core languages and tech stacks. |
 | [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x) | Repo of project tutorials for building your own technologies (i.e. neural network, 3d renderer, etc).|
-| [Project Ideas](https://github.com/topics/project-ideas) | Repo containing hundreds of project ideas for to do.|
+| [Project Ideas](https://github.com/topics/project-ideas) | A collection of hundreds of project ideas to help you get started. |
 
 
 ### Open Source Contributions
-Contributing to open source projects is another great way to build up one’s CS resume. 
+Contributing to open source projects is another great way to build up one’s CS resume. When employers review your GitHub contributions, they will see these contributios and the activity on your commit graph, leaving a much more favorable impression then an applicant without these. 
 
 | Source | Description |
 |------|-------------|
@@ -77,8 +76,10 @@ Contributing to open source projects is another great way to build up one’s CS
 -->
 
 ## Interview Prep
-Preparing for the technical interview or pre-screening can often times be the most crucial step for landing any sort of tech position. These technical interview focus largely on DSA concepts which need to be nailed down. 
-Leetcode will be one of the best resources for this offering thousands of sample questions that are often times used in real interviews. To assist in tackling the different concepts covered in these questions, publicly available question lists can be found which contain a good guideline of questions to complete to understand each DSA concept (hashing, trees, maps, etc). 
+### Technical Interviews
+Preparing for the technical interview or pre-screening can often times be the most crucial step for landing any sort of tech position. These technical interview focus largely on DSA concepts which need to be nailed down.  
+  
+Leetcode will be one of the best resources for this offering thousands of sample questions that are often times used in real interviews. Mastering technical interviews takes time, practice, and strategy. Below are curated resources to help you nail these interviews!
 
 | Source | Description |
 |------|-------------|
@@ -89,6 +90,15 @@ Leetcode will be one of the best resources for this offering thousands of sample
 | [Hacker Rank](https://www.hackerrank.com/dashboard) | Website used by companies to conduct pre-screening and technical interviews. The site offers an interview preparation kit to prepare. |
 | [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)| List of problems that appear commonly in company interviews. |
 
+
+<!--
+### Behavioral Interviews
+Behaviorals are another big part of the interivew process. If you are unable to come off a likable person with soft skills, your application might ultimately get rejected. 
+https://interviewguide.dev/behavioral
+https://www.techinterviewhandbook.org/behavioral-interview-questions/
+
+
+-->
 
 ## Internship & Programs List
 Apart from popular job board websites, there are a couple other resources to stay posted with for internships and programs. More links are to come as recruiting season comes closer.

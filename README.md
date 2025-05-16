@@ -7,11 +7,11 @@ Clemson Forge was created with the idea that everyone needs some form advice or 
 We are looking to regularly update this GitHub and ask your help to contribute any resources/sections that have or would have helped you in the past.
 
 ## Contents
-####[1. Learning](https://github.com/Clemson-Forge/resources/blob/main/README.md#learning)  
-####[2. Projects](https://github.com/Clemson-Forge/resources/blob/main/README.md#projects)  
-####[3. Leetcode & Interview Prep](https://github.com/Clemson-Forge/resources/blob/main/README.md#interview-prep)  
-####[4. Internship & Programs List](https://github.com/Clemson-Forge/resources/blob/main/README.md#internship--programs-list)  
-####[5. Clemson Resources](https://github.com/Clemson-Forge/resources/blob/main/README.md#clemson-university-resources)  
+###[1. Learning](https://github.com/Clemson-Forge/resources/blob/main/README.md#learning)  
+###[2. Projects](https://github.com/Clemson-Forge/resources/blob/main/README.md#projects)  
+###[3. Leetcode & Interview Prep](https://github.com/Clemson-Forge/resources/blob/main/README.md#interview-prep)  
+###[4. Internship & Programs List](https://github.com/Clemson-Forge/resources/blob/main/README.md#internship--programs-list)  
+###[5. Clemson Resources](https://github.com/Clemson-Forge/resources/blob/main/README.md#clemson-university-resources)  
 
 
 ## Learning

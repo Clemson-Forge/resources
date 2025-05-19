@@ -2,7 +2,7 @@
 # Resources
 Welcome to the Clemson Forge Resources Repo!
 
-Clemson Forge was created with the belief that every student benefits from guidance and support throughout their CS journey. This repo was made as a way to support that belif by centralizing essential resources to help you grow—whether you're learning a new language, starting a project, or preparing for your next interview.
+Clemson Forge was created with the belief that every student benefits from guidance and support throughout their CS journey. This repo was made to support that belief by centralizing essential resources to help you grow—whether you're learning a new language, starting a project, or preparing for your next interview.
 
 We encourage contributions from students at all levels: if you’ve found a resource that helped you, chances are it can help someone else too.
 
@@ -15,7 +15,7 @@ We encourage contributions from students at all levels: if you’ve found a reso
 
 
 ## Learning
-Learning different programming languages and specializations is an important step in helping develop your CS portfolio. There are many different ways to learn a language. These include YouTube tutorials, interactive platforms, and free online courses from top universities. Below is a compilation of good sources we've found:
+Learning different programming languages and specializations is an essential step in helping develop your CS portfolio. There are many different ways to learn a language. These include YouTube tutorials, interactive platforms, and free online courses from top universities. Below is a compilation of good sources we've found:
 <!-- 
 TO ADD
 App dev
@@ -59,7 +59,7 @@ Compiled list of resources to go to for tutorials and ideas for personal project
 
 
 ### Open Source Contributions
-Contributing to open source projects is another great way to build up one’s CS resume. When employers review your GitHub contributions, they will see these contributios and the activity on your commit graph, leaving a much more favorable impression then an applicant without these. 
+Contributing to open source projects is another great way to build up one’s CS resume. When employers review your GitHub contributions, they will see these contributions and the activity on your commit graph, leaving a much more favorable impression than an applicant without these. 
 
 | Source | Description |
 |------|-------------|
@@ -77,9 +77,9 @@ Contributing to open source projects is another great way to build up one’s CS
 
 ## Interview Prep
 ### Technical Interviews
-Preparing for the technical interview or pre-screening can often times be the most crucial step for landing any sort of tech position. These technical interview focus largely on DSA concepts which need to be nailed down.  
+Preparing for the technical interview or pre-screening can oftentimes be the most crucial step for landing any sort of tech position. These technical interviews focus largely on DSA concepts, which need to be nailed down.  
   
-Leetcode will be one of the best resources for this offering thousands of sample questions that are often times used in real interviews. Mastering technical interviews takes time, practice, and strategy. Below are curated resources to help you nail these interviews!
+Leetcode will be one of the best resources for this offering, thousands of sample questions that are often used in real interviews. Mastering technical interviews takes time, practice, and strategy. Below are curated resources to help you nail these interviews!
 
 | Source | Description |
 |------|-------------|
@@ -93,7 +93,7 @@ Leetcode will be one of the best resources for this offering thousands of sample
 
 <!--
 ### Behavioral Interviews
-Behaviorals are another big part of the interivew process. If you are unable to come off a likable person with soft skills, your application might ultimately get rejected. 
+Behaviorals are another big part of the interview process. If you are unable to come off a likable person with soft skills, your application might ultimately get rejected. 
 https://interviewguide.dev/behavioral
 https://www.techinterviewhandbook.org/behavioral-interview-questions/
 
@@ -101,7 +101,7 @@ https://www.techinterviewhandbook.org/behavioral-interview-questions/
 -->
 
 ## Internship & Programs List
-Apart from popular job board websites, there are a couple other resources to stay posted with for internships and programs. More links are to come as recruiting season comes closer.
+Apart from popular job board websites, there are a couple of other resources to stay posted with for internships and programs. More links are to come as the recruiting season comes closer.
 
 | Source | Description |
 |------|-------------|
@@ -110,14 +110,14 @@ Apart from popular job board websites, there are a couple other resources to sta
 | [Everything but Internships](https://github.com/Julian048/CS-Everything-but-Internships?tab=readme-ov-file) | Curated list of programs, fellowships, insight series, and more for CS students. |
 
 ### Why fellowships and other programs?
-For many freshmen and sophomores, landing an internship is quite difficult and challenging; however there exists early career events and programs companies hold meant exclusively for these underclassmen. Applying and participating in opportunities such as these are amazing ways to showcase to companies that you are actively putting effort into your career growth.
+For many freshmen and sophomores, landing an internship is quite difficult and challenging; however, there exist early career events and programs companies hold meant exclusively for these underclassmen. Applying and participating in opportunities such as these are amazing ways to showcase to companies that you are actively putting effort into your career growth.
 
 ## Clemson University Resources
 | Title | Description |
 |-------|-------------|
 | CPSC Study Lab | Get help with your 1000-level computer science classes! |
 | [Clubs & Orgs](https://www.clemson.edu/cecas/departments/computing/students/orgs.html) | Stay connected with the CS clubs at Clemson! |
-| [Career Center](https://career.clemson.edu/) | Our nationally ranked career center providing assistance throughout the job search process.|
+| [Career Center](https://career.clemson.edu/) | Our nationally ranked career center provides assistance throughout the job search process.|
 
 
 ## Sections to come

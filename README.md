@@ -112,6 +112,11 @@ Apart from popular job board websites, there are a couple of other resources to 
 ### Why fellowships and other programs?
 For many freshmen and sophomores, landing an internship is quite difficult and challenging; however, there exist early career events and programs companies hold meant exclusively for these underclassmen. Applying and participating in opportunities such as these are amazing ways to showcase to companies that you are actively putting effort into your career growth.
 
+## Resume Resources
+| Source | Description |
+|------|-------------|
+| [JobEmerge](https://www.jobemerge.work) | Freemium AI career copilot with a job-fit test, resume translation, and a Markdown resume editor. |
+
 ## Clemson University Resources
 | Title | Description |
 |-------|-------------|
@@ -123,5 +128,4 @@ For many freshmen and sophomores, landing an internship is quite difficult and c
 ## Sections to come
 While we are still expanding this GitHub there are some sections we (or a contributor) plan on adding including:
 - Coffee chats
-- Resume resources
 - How to position yourself early on as a first or second year
